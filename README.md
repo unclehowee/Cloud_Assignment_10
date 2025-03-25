@@ -1,4 +1,4 @@
-# GitHub Pages Demo
+# GitHub Pages Demo. Dominic Janaban - Assignment 10
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
